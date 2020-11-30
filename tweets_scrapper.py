@@ -7,10 +7,7 @@ from datetime import datetime
 
 # Twitter credentials
 # Obtain them from your twitter developer account
-consumer_key = "4S25LckSKTMvn5QdRlW5BXoVE"
-consumer_secret = "BqSMEMb6gyCrcIuY17I5LCYFoZXmKEThydPZ1LFObQvFLaiWxt"
-access_key = "700131443-6QtUdwmRe1o4NTLmhK72aytJ7TROogRI3aYXkL4Z"
-access_secret = "L9Kb2836eciMYGajd3u4uzt7HIBhGslf5iA9cMIw1MO4I"
+
 # Pass your twitter credentials to tweepy via its OAuthHandler
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_key, access_secret)

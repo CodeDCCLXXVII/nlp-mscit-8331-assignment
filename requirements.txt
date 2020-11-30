@@ -1,0 +1,11 @@
+nltk
+pandas
+xlrd
+seaborn
+flask
+sklearn
+tweepy
+textblob
+preprocessor
+flask_restplus
+Werkzeug==0.16.1

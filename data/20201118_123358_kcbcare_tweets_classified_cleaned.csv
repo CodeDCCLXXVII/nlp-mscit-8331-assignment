@@ -1,77 +1,61 @@
-,username,acctdesc,location,following,followers,totaltweets,usercreatedts,tweetcreatedts,retweetcount,text,hashtags,intent
-5,Gitari56557590,Ambitions,,16,9,5,17/11/2020 06:33,17/11/2020 13:44,0,@KCBCare hello can you assist me to know the status of my account,[],kcb_account
-20,Dennis37397083,,,31,0,8,24/10/2020 17:22,16/11/2020 17:01,0,@KCBCare Today I have transacted  some amount from my account through the mobile banking and it showed me I have successfully done it! Upto now have my money hasn't yet be deposited in my mpesa.. Whatsup! Kindly assist I got some emergency...,[],kcb_mobile_banking
-22,_parmuat,I belong to Jesus.,"Nairobi,kenya",180,212,1932,04/11/2011 11:37,16/11/2020 14:49,0,@KCBCare @emskitcomputers This is not efficient... Improve so that one can reset with their phone number and ID @kcbcare,[],kcb_account
-24,Urbankenya,Young black n F***ng Famous #,Dubai.,113,43,26,05/01/2010 03:19,16/11/2020 14:40,0,@KCBCare Y'all crazy ma passport is the registered document am not an account holder just mormal mpesa on ur agent account inside the branch,[],kcb_account
-25,Urbankenya,Young black n F***ng Famous #,Dubai.,113,43,26,05/01/2010 03:19,16/11/2020 13:53,0,@KCBCare This the biggest fraud in this country after waiting for an hour for my 2 transaction they refuse to pay saying i have to use id even if passport is the registered document still at the lobby waiting,[],kcb_account
+,username,acctdesc,location,following,followers,totaltweets,usercreatedts,tweetcreatedts,retweetcount,text,hashtags,intent,,label
+5,Gitari56557590,Ambitions,,16,9,5,17/11/2020 06:33,17/11/2020 13:44,0,@KCBCare hello can you assist me to know the status of my account,[],kcb_account,,-1
+22,_parmuat,I belong to Jesus.,"Nairobi,kenya",180,212,1932,04/11/2011 11:37,16/11/2020 14:49,0,@KCBCare @emskitcomputers This is not efficient... Improve so that one can reset with their phone number and ID @kcbcare,[],kcb_account,,-1
+24,Urbankenya,Young black n F***ng Famous #,Dubai.,113,43,26,05/01/2010 03:19,16/11/2020 14:40,0,@KCBCare Y'all crazy ma passport is the registered document am not an account holder just mormal mpesa on ur agent account inside the branch,[],kcb_account,,-1
+25,Urbankenya,Young black n F***ng Famous #,Dubai.,113,43,26,05/01/2010 03:19,16/11/2020 13:53,0,@KCBCare This the biggest fraud in this country after waiting for an hour for my 2 transaction they refuse to pay saying i have to use id even if passport is the registered document still at the lobby waiting,[],kcb_account,,-1
 30,Danokware,"IT is my Profession.
 Catholic is my Religion.
 Manchester United is my second Religion.
 Simplicity is my other name.
-What you are thinking is only your opinion.","Nairobi, Kenya",505,425,1373,24/08/2011 12:11,16/11/2020 06:01,0,@KCBCare Airtime purchased failed.Check DM I have shared with you the message I got from KCB.,[],kcb_account
+What you are thinking is only your opinion.","Nairobi, Kenya",505,425,1373,24/08/2011 12:11,16/11/2020 06:01,0,@KCBCare Airtime purchased failed.Check DM I have shared with you the message I got from KCB.,[],kcb_account,,-1
 32,Danokware,"IT is my Profession.
 Catholic is my Religion.
 Manchester United is my second Religion.
 Simplicity is my other name.
-What you are thinking is only your opinion.","Nairobi, Kenya",505,425,1373,24/08/2011 12:11,16/11/2020 05:37,0,@KCBCare M-PESA ref OKG2JPWV5U is not reflected in my account since 12am. Yet I received an SMS that funds were receieved. Can you advise whats up?,[],kcb_account
-35,freeman4martin,,,172,60,963,23/09/2012 16:57,14/11/2020 09:32,0,"@KCBCare hi, how much funds can I withdraw from an atm using mpesa ?",[],kcb_account
+What you are thinking is only your opinion.","Nairobi, Kenya",505,425,1373,24/08/2011 12:11,16/11/2020 05:37,0,@KCBCare M-PESA ref OKG2JPWV5U is not reflected in my account since 12am. Yet I received an SMS that funds were receieved. Can you advise whats up?,[],kcb_account,,-1
+35,freeman4martin,,,172,60,963,23/09/2012 16:57,14/11/2020 09:32,0,"@KCBCare hi, how much funds can I withdraw from an atm using mpesa ?",[],kcb_account,,-1
 39,AndrewUnited7,"@Manutd 
-Views expressed on my TL aren't part of my Real Life. I'm here for fun and Banter","Nairobi, Kenya",1167,2182,74486,14/06/2012 13:44,13/11/2020 19:12,0,@KCBCare I was at Moi Avenue branch and was told to go to Gigiri where account was opened. Even been told so in my DM by one you,[],kcb_account
+Views expressed on my TL aren't part of my Real Life. I'm here for fun and Banter","Nairobi, Kenya",1167,2182,74486,14/06/2012 13:44,13/11/2020 19:12,0,@KCBCare I was at Moi Avenue branch and was told to go to Gigiri where account was opened. Even been told so in my DM by one you,[],kcb_account,,-1
 40,AndrewUnited7,"@Manutd 
-Views expressed on my TL aren't part of my Real Life. I'm here for fun and Banter","Nairobi, Kenya",1167,2182,74486,14/06/2012 13:44,13/11/2020 19:10,0,@KCBGroup @KCBCare why can't it be done at any of your branches like just give me the amendment form I feel it and have it scanned to your Nairobi branch where I opened the account.,[],kcb_account
+Views expressed on my TL aren't part of my Real Life. I'm here for fun and Banter","Nairobi, Kenya",1167,2182,74486,14/06/2012 13:44,13/11/2020 19:10,0,@KCBGroup @KCBCare why can't it be done at any of your branches like just give me the amendment form I feel it and have it scanned to your Nairobi branch where I opened the account.,[],kcb_account,,-1
 41,AndrewUnited7,"@Manutd 
-Views expressed on my TL aren't part of my Real Life. I'm here for fun and Banter","Nairobi, Kenya",1167,2182,74486,14/06/2012 13:44,13/11/2020 19:08,0,So for a customer to amend his/her account details according to @KCBGroup @KCBCare you've to go to the branch you opened your account even if it means traveling from Bungoma to Gigiri. Make it make sense please. Like just changing from counter withdrawal to mobile withdrawal,[],kcb_account
+Views expressed on my TL aren't part of my Real Life. I'm here for fun and Banter","Nairobi, Kenya",1167,2182,74486,14/06/2012 13:44,13/11/2020 19:08,0,So for a customer to amend his/her account details according to @KCBGroup @KCBCare you've to go to the branch you opened your account even if it means traveling from Bungoma to Gigiri. Make it make sense please. Like just changing from counter withdrawal to mobile withdrawal,[],kcb_account,,-1
 42,teyjonDJ,"Fully Forcused God fearing n Humble. 
 
-I don't have to b Famous bt am Great.",Samplace Around Teyjon,317,934,24495,25/03/2013 15:05,13/11/2020 17:51,0,"@KCBCare Hey,Mpesa to account transactions not updating,whats happening.",[],kcb_m_pesa
-44,kaireetu,happy,,171,423,477,28/06/2013 06:41,13/11/2020 16:15,0,@KCBCare is there a delay with mobile banking,[],kcb_mobile_banking
+I don't have to b Famous bt am Great.",Samplace Around Teyjon,317,934,24495,25/03/2013 15:05,13/11/2020 17:51,0,"@KCBCare Hey,Mpesa to account transactions not updating,whats happening.",[],kcb_m_pesa,,1
 45,TJ_Mwende,"Jesus At The Center Of It All!
 Life is kind,Live it!","Nairobi, Kenya",113,54,228,07/08/2019 14:37,13/11/2020 16:07,0,"@KCBCare kindly assist with a pending transaction. Your contact number is like the old Safaricom 100 ��
-I can't DM either, don't know what is up?",[],kcb_account
-46,SandersNelmarie,"NEVER Give Up - Imperial Bank Depositor - Interested in Africa & Europe financial markets, banking, investments, trading & business innovations -ethical banking","Coast, Kenya",866,519,5314,08/11/2015 06:29,13/11/2020 12:04,0,@KCBCare KCB mobile app on IOS faulty - unable to view account statements - it’s been doing this for weeks now - have deleted app and reinstated and followed *522# prompts but still not working - please advise https://t.co/mwtRceLPdZ,[],kcb_account
+I can't DM either, don't know what is up?",[],kcb_account,,-1
+46,SandersNelmarie,"NEVER Give Up - Imperial Bank Depositor - Interested in Africa & Europe financial markets, banking, investments, trading & business innovations -ethical banking","Coast, Kenya",866,519,5314,08/11/2015 06:29,13/11/2020 12:04,0,@KCBCare KCB mobile app on IOS faulty - unable to view account statements - it’s been doing this for weeks now - have deleted app and reinstated and followed *522# prompts but still not working - please advise https://t.co/mwtRceLPdZ,[],kcb_account,,-1
 49,McKathyaka,"Ambition is priceless (Writer & Editor) 
-Liverpool Diehard Fan, YNWA",giddmakenzie22@gmail.com,1859,1931,1626,29/08/2012 13:47,12/11/2020 16:54,0,@KCBCare what's up with this delay from You to Mpesa?,[],kcb_m_pesa
+Liverpool Diehard Fan, YNWA",giddmakenzie22@gmail.com,1859,1931,1626,29/08/2012 13:47,12/11/2020 16:54,0,@KCBCare what's up with this delay from You to Mpesa?,[],kcb_m_pesa,,1
 52,PatrioticGee,"Bitcoin address
-3CsR9sP3Q391LUwdoYsUzAUAHZEF6GSXZM",Bitcoin,3541,6426,12993,27/09/2013 12:17,12/11/2020 13:04,0,"@KCBCare @KCBGroup pesalink, buying Telkom airtime not working, ama mlirudisha ile bullshit ya minimum operating balance?",[],kcb_account
-53,Xtiveens,"Heb 11:1 Now faith is the substance of things hoped for, the evidence of things not seen.",Nairobi,1023,693,87,05/06/2015 10:51,12/11/2020 11:31,0,@KCBCare I need my account number. Registered last year at kcb kasarani they said they will email it to me.,[],kcb_account
-54,Xtiveens,"Heb 11:1 Now faith is the substance of things hoped for, the evidence of things not seen.",Nairobi,1023,693,87,05/06/2015 10:51,12/11/2020 11:25,0,@KCBCare Hi I have an issue with my kcb account please kindly assist.,[],kcb_account
-57,psssychopathh,I wouldn't follow either,Nairobi Kenya ,965,119,4092,20/02/2010 22:23,11/11/2020 16:57,0,@KCBCare kcb to mpesa down again??,[],kcb_m_pesa
-58,josephkimeu,,,157,45,130,15/09/2009 11:32,11/11/2020 16:55,0,@KCBCare Hi. Mpesa transaction from my account not received. Please assist..,[],kcb_m_pesa
+3CsR9sP3Q391LUwdoYsUzAUAHZEF6GSXZM",Bitcoin,3541,6426,12993,27/09/2013 12:17,12/11/2020 13:04,0,"@KCBCare @KCBGroup pesalink, buying Telkom airtime not working, ama mlirudisha ile bullshit ya minimum operating balance?",[],kcb_account,,-1
+53,Xtiveens,"Heb 11:1 Now faith is the substance of things hoped for, the evidence of things not seen.",Nairobi,1023,693,87,05/06/2015 10:51,12/11/2020 11:31,0,@KCBCare I need my account number. Registered last year at kcb kasarani they said they will email it to me.,[],kcb_account,,-1
+54,Xtiveens,"Heb 11:1 Now faith is the substance of things hoped for, the evidence of things not seen.",Nairobi,1023,693,87,05/06/2015 10:51,12/11/2020 11:25,0,@KCBCare Hi I have an issue with my kcb account please kindly assist.,[],kcb_account,,-1
+57,psssychopathh,I wouldn't follow either,Nairobi Kenya ,965,119,4092,20/02/2010 22:23,11/11/2020 16:57,0,@KCBCare kcb to mpesa down again??,[],kcb_m_pesa,,1
+58,josephkimeu,,,157,45,130,15/09/2009 11:32,11/11/2020 16:55,0,@KCBCare Hi. Mpesa transaction from my account not received. Please assist..,[],kcb_m_pesa,,1
 59,SanyahQuinto,,Nairobi kenya,611,225,586,26/02/2016 15:29,11/11/2020 16:33,0,"@KCBCare what's wrong with kcb to mpesa transactions
-I have transfered some money but it's not reflecting",[],kcb_m_pesa
-61,said_brek,,,37,13,385,11/09/2015 08:51,11/11/2020 15:20,0,@KCBCare Hi transferred some cash to mpesa but yet to receive. Kindly assist,[],kcb_m_pesa
+I have transfered some money but it's not reflecting",[],kcb_m_pesa,,1
+61,said_brek,,,37,13,385,11/09/2015 08:51,11/11/2020 15:20,0,@KCBCare Hi transferred some cash to mpesa but yet to receive. Kindly assist,[],kcb_m_pesa,,1
 64,Mary_M_Nganga,"'How wonderful is it that nobody need wait a single moment before starting to improve the world'-Anne Frank �
 ♑
 Professional doodler ✏️
-��","Nairobi, Kenya",228,470,1826,27/01/2013 13:17,11/11/2020 12:21,0,@KCBCare @Safaricom_Care I have a kcb mpesa issue. Kindly assist.,[],kcb_m_pesa
+��","Nairobi, Kenya",228,470,1826,27/01/2013 13:17,11/11/2020 12:21,0,@KCBCare @Safaricom_Care I have a kcb mpesa issue. Kindly assist.,[],kcb_m_pesa,,1
 70,mande_manta,"Kindness and politeness are not overrated at all. 
 #Arsenal FC⚽. Proud black man��
-Brother, uncle n husband to be. HUMBLE. kind. Hardworker. Dreamer","Nairobi, Kenya",3113,2229,3497,06/10/2012 03:43,11/11/2020 08:43,0,@KCBCare I bought 50 Bob worth of airtel airtime yesterday 10th November 2020 at around 20:45 directly from my bank account but until now the airtime has not reflected even thou the money was deducted... Care to check on the matter please.,[],kcb_account
-72,nickstower,StartupGuy | Serial Entrepreneur,"Nairobi, Kenya",48,30,200,30/04/2010 18:00,11/11/2020 07:16,0,"@KCBCare the account is open now, but I feel like I had to go through other channels just to get it up. I feel like I need an apology for the hurdles I have had to go through #GoAhead","[{'text': 'GoAhead', 'indices': [175, 183]}]",kcb_account
-73,nickstower,StartupGuy | Serial Entrepreneur,"Nairobi, Kenya",48,30,200,30/04/2010 18:00,11/11/2020 06:38,0,"@KCBCare I think it would be productive to give me feedback on opening my account instead of investigating who was handling it, during my time.",[],kcb_account
-74,nickstower,StartupGuy | Serial Entrepreneur,"Nairobi, Kenya",48,30,200,30/04/2010 18:00,11/11/2020 03:52,0,@KCBCare Delays in opening the account.,[],kcb_account
-76,nickstower,StartupGuy | Serial Entrepreneur,"Nairobi, Kenya",48,30,200,30/04/2010 18:00,11/11/2020 03:33,0,"@KCBCare hi, facing a challenge trying to open a corporate account through your team in gigiri Branch. Apparently the account is ready. Kindly assist.",[],kcb_account
+Brother, uncle n husband to be. HUMBLE. kind. Hardworker. Dreamer","Nairobi, Kenya",3113,2229,3497,06/10/2012 03:43,11/11/2020 08:43,0,@KCBCare I bought 50 Bob worth of airtel airtime yesterday 10th November 2020 at around 20:45 directly from my bank account but until now the airtime has not reflected even thou the money was deducted... Care to check on the matter please.,[],kcb_account,,-1
+72,nickstower,StartupGuy | Serial Entrepreneur,"Nairobi, Kenya",48,30,200,30/04/2010 18:00,11/11/2020 07:16,0,"@KCBCare the account is open now, but I feel like I had to go through other channels just to get it up. I feel like I need an apology for the hurdles I have had to go through #GoAhead","[{'text': 'GoAhead', 'indices': [175, 183]}]",kcb_account,,-1
+73,nickstower,StartupGuy | Serial Entrepreneur,"Nairobi, Kenya",48,30,200,30/04/2010 18:00,11/11/2020 06:38,0,"@KCBCare I think it would be productive to give me feedback on opening my account instead of investigating who was handling it, during my time.",[],kcb_account,,-1
+74,nickstower,StartupGuy | Serial Entrepreneur,"Nairobi, Kenya",48,30,200,30/04/2010 18:00,11/11/2020 03:52,0,@KCBCare Delays in opening the account.,[],kcb_account,,-1
+76,nickstower,StartupGuy | Serial Entrepreneur,"Nairobi, Kenya",48,30,200,30/04/2010 18:00,11/11/2020 03:33,0,"@KCBCare hi, facing a challenge trying to open a corporate account through your team in gigiri Branch. Apparently the account is ready. Kindly assist.",[],kcb_account,,-1
 78,muli_raphael,"A brother,father,husband, uncle GOD-fearing-Kenyan.REGISTERED DIETICIAN/NUTRITIONIST (RDN).","Machakos,kenya",3096,1997,3890,27/03/2013 20:20,10/11/2020 16:43,0,"@KCBCare ,kindly complete my transactions
-Raphael Muli Nzula has transferred 1,000 to your M Pesa. Kindly await Mpesa notification. Transaction ref. no. 203150496548.",[],kcb_m_pesa
+Raphael Muli Nzula has transferred 1,000 to your M Pesa. Kindly await Mpesa notification. Transaction ref. no. 203150496548.",[],kcb_m_pesa,,1
 82,Mary_M_Nganga,"'How wonderful is it that nobody need wait a single moment before starting to improve the world'-Anne Frank �
 ♑
 Professional doodler ✏️
-��","Nairobi, Kenya",228,470,1826,27/01/2013 13:17,10/11/2020 07:36,0,"@KCBCare good morning �, a while bqck I had an issue with my KCB mpesa and now it seems I can't access it. It requires me to register or something like that but then sends me a failed message",[],kcb_m_pesa
-83,sbsbuchi,"a God's son,and a democrat and a magnet of blessings",Nairobi Kenya,944,127,920,22/08/2009 12:29,10/11/2020 06:22,0,@KCBCare There while the registered mobile line is still in and the uses works~ https://t.co/FL7nQYpyPV,[],kcb_mobile_banking
-85,ngeso_daniel,"STRAIGHT SIMPLE
-ALWAYS FOREVER","Nairobi, Kenya",23,5,52,05/07/2015 07:45,10/11/2020 05:43,0,@KCBCare can't login to my kcb app please assist https://t.co/Mf69MnwAHw,[],kcb_mobile_banking
-86,yvytweets,Seek Ye First the Kingdom of God.��,,193,168,1290,24/09/2009 07:46,10/11/2020 04:21,0,"@KCBCare You have been experiencing these delays since last week.If by now you have not found a solution then shut down the service. This situation has not caught you off guard today.This is the second if not the third week.
-We are tired as clients of being embarrassed when trying to pay",[],kcb_mobile_banking
-87,sbsbuchi,"a God's son,and a democrat and a magnet of blessings",Nairobi Kenya,944,127,920,22/08/2009 12:29,10/11/2020 01:42,0,"@KCBCare No, I would like to change the first data sim,I can't login to my account without inserting it yet its not the official mobile banking service number.",[],kcb_mobile_banking
-88,danochillo,,,52,7,31,09/05/2013 04:31,09/11/2020 17:06,0,@KCBCare my Kcb m-pesa is asking for activation but when I insert the pin it doesn't process telling me to try later. Kindly assist.,[],kcb_m_pesa
+��","Nairobi, Kenya",228,470,1826,27/01/2013 13:17,10/11/2020 07:36,0,"@KCBCare good morning �, a while bqck I had an issue with my KCB mpesa and now it seems I can't access it. It requires me to register or something like that but then sends me a failed message",[],kcb_m_pesa,,1
+88,danochillo,,,52,7,31,09/05/2013 04:31,09/11/2020 17:06,0,@KCBCare my Kcb m-pesa is asking for activation but when I insert the pin it doesn't process telling me to try later. Kindly assist.,[],kcb_m_pesa,,1
 89,yvytweets,Seek Ye First the Kingdom of God.��,,193,168,1290,24/09/2009 07:46,09/11/2020 16:17,0,"@KCBGroup @KCBCare this delay from app to MPESA is now too much and leading us to too many embarassments��
 If the service has a problem withdraw it until it's fixed!!!
-Mnabore",[],kcb_m_pesa
-96,sbsbuchi,"a God's son,and a democrat and a magnet of blessings",Nairobi Kenya,944,127,920,22/08/2009 12:29,09/11/2020 12:02,0,@KCBCare how do I change the KCB login sim data to another sim data.,[],kcb_mobile_banking
-99,morscadelli,"They don't wanna let me live.
-They don't wanna let me dream.
-They don't wanna let me win. ��
-
-Fan. @ChelseaFC","Nairobi, Kenya",628,861,560,07/03/2020 13:06,09/11/2020 04:56,0,"@KCBCare Hi
-
-I am Maxwell Guvaha. I am your client, and I wanted to activate my Mobile banking app. Because I changed the phone how can you help me?",[],kcb_mobile_banking
+Mnabore",[],kcb_m_pesa,,1
